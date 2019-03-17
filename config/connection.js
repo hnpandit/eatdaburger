@@ -1,7 +1,7 @@
 // Set up MySQL connection.
 var mysql = require("mysql");
 
-var connection = mysql.createConnection("mysql://baygazrvuqacgzvf:cme6ma2sesnbquux@zj2x67aktl2o6q2n.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/c4tnx2q1ydskjzho");
+var connection = mysql.createConnection("mysql://wk4v5mzs6o5pblps:fjvfmga1bua3nhk6@zj2x67aktl2o6q2n.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/t3aal9yw7ubdrdoj");
 
 /*
 var connection = mysql.createConnection({
